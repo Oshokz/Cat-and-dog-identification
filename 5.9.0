@@ -1,0 +1,4 @@
+Collecting psutil
+  Using cached psutil-5.9.5-cp36-abi3-win_amd64.whl (255 kB)
+Installing collected packages: psutil
+Successfully installed psutil-5.9.5
